@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header_logo {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #95E1D3;
+
+}
+.header_nav--link {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #95E1D3;
+    text-decoration: none;
+}
+.work_title {
+    font-family: Kaushan Script;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #333333;
+}
+.work_amazingtitle {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-variant: small-caps;
+    color: #333333;
+}
+.work_img--line {
+    width: 60px;
+    height: 4px;
+    color: #F38181;
+}
